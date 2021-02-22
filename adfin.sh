@@ -17,7 +17,7 @@ it='\e[3m'
 ul='\e[4m'
 rv='\e[7m'
 
-colors=( "${bd}${r}" "${bd}${g}" "${bd}${y}" "${bd}${b}" "${bd}${p}" "${bd}${c}")
+colors=("${bd}${r}" "${bd}${g}" "${bd}${y}" "${bd}${b}" "${bd}${p}" "${bd}${c}")
 
 thread=10
 count=1
